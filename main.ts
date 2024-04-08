@@ -2,7 +2,7 @@
 
 import inquirer from "inquirer"
 
-// Initialize a list 
+// Initialize a list t
 let todoList:any = []
 
 while (true){

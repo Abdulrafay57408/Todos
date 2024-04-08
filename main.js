@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
-// Initialize a list and condition for loop
+// Initialize a list t
 let todoList = [];
 while (true) {
     // Provide options to user
